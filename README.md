@@ -1,2 +1,2 @@
 # My-personal-hub
-It's a simple static website aboyt me writen by HTML  
+It's a simple static website about me writen by HTML  
